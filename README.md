@@ -13,7 +13,7 @@ I build modern web applications and digital solutions. Welcome to my GitHub prof
 
 ### 🚀 Featured Projects
 * **[HAM](https://gorodetskyy.github.io/HAM/)** — Short description of what this project does and the tech used.
-* 
+
 ### 📫 Contact Me
 Have a project in mind or want to collaborate? Reach out directly:
 
