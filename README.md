@@ -10,7 +10,7 @@ I build web applications and digital solutions. Welcome to my GitHub profile!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🚀 Featured Projects
-* **[HAM](https://github.com/gorodetskyy/HAM)** 
+* **[HAM](https://gorodetskyy.github.io/HAM/)** 
 
 ### 📫 Contact Me
 Have a project in mind or want to collaborate? Reach out directly:
